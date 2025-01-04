@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Serilog.AspNetCore" Version="9.0.0" />
+    <PackageReference Include="Volo.Abp.AspNetCore.Serilog" Version="8.3.3" />
+    <PackageReference Include="Volo.Abp.Swashbuckle" Version="8.3.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\aspire\ExamOnAbp\ExamOnAbp.ServiceDefaults\ExamOnAbp.ServiceDefaults.csproj" />
+    <ProjectReference Include="..\ExamOnAbp.Shared.Hosting\ExamOnAbp.Shared.Hosting.csproj" />
+    <ProjectReference Include="..\ExamOnAbp.Shared.Localization\ExamOnAbp.Shared.Localization.csproj" />
+  </ItemGroup>
+
+</Project>
