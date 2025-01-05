@@ -1,0 +1,13 @@
+D:\ExamOnAbp\aspire\ExamOnAbp.ServiceDefaults\bin\Debug\net8.0\ExamOnAbp.ServiceDefaults.deps.json
+D:\ExamOnAbp\aspire\ExamOnAbp.ServiceDefaults\bin\Debug\net8.0\ExamOnAbp.ServiceDefaults.dll
+D:\ExamOnAbp\aspire\ExamOnAbp.ServiceDefaults\bin\Debug\net8.0\ExamOnAbp.ServiceDefaults.pdb
+D:\ExamOnAbp\aspire\ExamOnAbp.ServiceDefaults\obj\Debug\net8.0\ExamOnAbp.ServiceDefaults.csproj.AssemblyReference.cache
+D:\ExamOnAbp\aspire\ExamOnAbp.ServiceDefaults\obj\Debug\net8.0\ExamOnAbp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamOnAbp\aspire\ExamOnAbp.ServiceDefaults\obj\Debug\net8.0\ExamOnAbp.ServiceDefaults.AssemblyInfoInputs.cache
+D:\ExamOnAbp\aspire\ExamOnAbp.ServiceDefaults\obj\Debug\net8.0\ExamOnAbp.ServiceDefaults.AssemblyInfo.cs
+D:\ExamOnAbp\aspire\ExamOnAbp.ServiceDefaults\obj\Debug\net8.0\ExamOnAbp.ServiceDefaults.csproj.CoreCompileInputs.cache
+D:\ExamOnAbp\aspire\ExamOnAbp.ServiceDefaults\obj\Debug\net8.0\ExamOnAbp.ServiceDefaults.sourcelink.json
+D:\ExamOnAbp\aspire\ExamOnAbp.ServiceDefaults\obj\Debug\net8.0\ExamOnAbp.ServiceDefaults.dll
+D:\ExamOnAbp\aspire\ExamOnAbp.ServiceDefaults\obj\Debug\net8.0\refint\ExamOnAbp.ServiceDefaults.dll
+D:\ExamOnAbp\aspire\ExamOnAbp.ServiceDefaults\obj\Debug\net8.0\ExamOnAbp.ServiceDefaults.pdb
+D:\ExamOnAbp\aspire\ExamOnAbp.ServiceDefaults\obj\Debug\net8.0\ref\ExamOnAbp.ServiceDefaults.dll

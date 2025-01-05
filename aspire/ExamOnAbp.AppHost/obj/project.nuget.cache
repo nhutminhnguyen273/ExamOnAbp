@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GcPnepobUIQ=",
+  "dgSpecHash": "ck/0SvshaAE=",
   "success": true,
-  "projectFilePath": "D:\\ExamOnAbp\\aspire\\ExamOnAbp\\ExamOnAbp.AppHost\\ExamOnAbp.AppHost.csproj",
+  "projectFilePath": "D:\\ExamOnAbp\\aspire\\ExamOnAbp.AppHost\\ExamOnAbp.AppHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nhutm\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\8.2.2\\aspire.dashboard.sdk.win-x64.8.2.2.nupkg.sha512",
     "C:\\Users\\nhutm\\.nuget\\packages\\aspire.hosting\\8.2.2\\aspire.hosting.8.2.2.nupkg.sha512",

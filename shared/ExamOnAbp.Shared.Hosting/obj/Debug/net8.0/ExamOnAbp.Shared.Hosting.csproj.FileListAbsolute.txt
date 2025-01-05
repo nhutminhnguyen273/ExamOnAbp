@@ -1,0 +1,13 @@
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Hosting\bin\Debug\net8.0\ExamOnAbp.Shared.Hosting.deps.json
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Hosting\bin\Debug\net8.0\ExamOnAbp.Shared.Hosting.dll
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Hosting\bin\Debug\net8.0\ExamOnAbp.Shared.Hosting.pdb
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Hosting\obj\Debug\net8.0\ExamOnAbp.Shared.Hosting.csproj.AssemblyReference.cache
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Hosting\obj\Debug\net8.0\ExamOnAbp.Shared.Hosting.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Hosting\obj\Debug\net8.0\ExamOnAbp.Shared.Hosting.AssemblyInfoInputs.cache
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Hosting\obj\Debug\net8.0\ExamOnAbp.Shared.Hosting.AssemblyInfo.cs
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Hosting\obj\Debug\net8.0\ExamOnAbp.Shared.Hosting.csproj.CoreCompileInputs.cache
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Hosting\obj\Debug\net8.0\ExamOnAbp.Shared.Hosting.sourcelink.json
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Hosting\obj\Debug\net8.0\ExamOnAbp.Shared.Hosting.dll
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Hosting\obj\Debug\net8.0\refint\ExamOnAbp.Shared.Hosting.dll
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Hosting\obj\Debug\net8.0\ExamOnAbp.Shared.Hosting.pdb
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Hosting\obj\Debug\net8.0\ref\ExamOnAbp.Shared.Hosting.dll

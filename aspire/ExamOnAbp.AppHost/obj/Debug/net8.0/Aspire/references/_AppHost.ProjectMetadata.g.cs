@@ -8,5 +8,5 @@ namespace Projects;
 public class ExamOnAbp_AppHost
 {
     private ExamOnAbp_AppHost() { }
-    public static string ProjectPath => """D:\ExamOnAbp\aspire\ExamOnAbp\ExamOnAbp.AppHost""";
+    public static string ProjectPath => """D:\ExamOnAbp\aspire\ExamOnAbp.AppHost""";
 }

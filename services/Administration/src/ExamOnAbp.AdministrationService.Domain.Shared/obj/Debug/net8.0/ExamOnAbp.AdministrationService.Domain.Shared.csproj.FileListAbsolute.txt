@@ -1,0 +1,13 @@
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Domain.Shared\bin\Debug\net8.0\ExamOnAbp.AdministrationService.Domain.Shared.deps.json
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Domain.Shared\bin\Debug\net8.0\ExamOnAbp.AdministrationService.Domain.Shared.dll
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Domain.Shared\bin\Debug\net8.0\ExamOnAbp.AdministrationService.Domain.Shared.pdb
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Domain.Shared\obj\Debug\net8.0\ExamOnAbp.AdministrationService.Domain.Shared.csproj.AssemblyReference.cache
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Domain.Shared\obj\Debug\net8.0\ExamOnAbp.AdministrationService.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Domain.Shared\obj\Debug\net8.0\ExamOnAbp.AdministrationService.Domain.Shared.AssemblyInfoInputs.cache
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Domain.Shared\obj\Debug\net8.0\ExamOnAbp.AdministrationService.Domain.Shared.AssemblyInfo.cs
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Domain.Shared\obj\Debug\net8.0\ExamOnAbp.AdministrationService.Domain.Shared.csproj.CoreCompileInputs.cache
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Domain.Shared\obj\Debug\net8.0\ExamOnAbp.AdministrationService.Domain.Shared.sourcelink.json
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Domain.Shared\obj\Debug\net8.0\ExamOnAbp.AdministrationService.Domain.Shared.dll
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Domain.Shared\obj\Debug\net8.0\refint\ExamOnAbp.AdministrationService.Domain.Shared.dll
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Domain.Shared\obj\Debug\net8.0\ExamOnAbp.AdministrationService.Domain.Shared.pdb
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Domain.Shared\obj\Debug\net8.0\ref\ExamOnAbp.AdministrationService.Domain.Shared.dll

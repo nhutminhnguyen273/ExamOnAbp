@@ -7,4 +7,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Keycloak.Net.Core" Version="1.0.31" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExamOnAbp.Shared.Hosting\ExamOnAbp.Shared.Hosting.csproj" />
+  </ItemGroup>
+
 </Project>

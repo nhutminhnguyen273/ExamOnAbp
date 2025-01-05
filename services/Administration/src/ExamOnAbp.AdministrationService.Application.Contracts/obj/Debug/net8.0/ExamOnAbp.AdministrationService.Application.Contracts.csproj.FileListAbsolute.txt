@@ -1,0 +1,16 @@
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Application.Contracts\bin\Debug\net8.0\ExamOnAbp.AdministrationService.Application.Contracts.deps.json
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Application.Contracts\bin\Debug\net8.0\ExamOnAbp.AdministrationService.Application.Contracts.dll
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Application.Contracts\bin\Debug\net8.0\ExamOnAbp.AdministrationService.Application.Contracts.pdb
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Application.Contracts\bin\Debug\net8.0\ExamOnAbp.AdministrationService.Domain.Shared.dll
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Application.Contracts\bin\Debug\net8.0\ExamOnAbp.AdministrationService.Domain.Shared.pdb
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Application.Contracts\obj\Debug\net8.0\ExamOnAbp.AdministrationService.Application.Contracts.csproj.AssemblyReference.cache
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Application.Contracts\obj\Debug\net8.0\ExamOnAbp.AdministrationService.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Application.Contracts\obj\Debug\net8.0\ExamOnAbp.AdministrationService.Application.Contracts.AssemblyInfoInputs.cache
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Application.Contracts\obj\Debug\net8.0\ExamOnAbp.AdministrationService.Application.Contracts.AssemblyInfo.cs
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Application.Contracts\obj\Debug\net8.0\ExamOnAbp.AdministrationService.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Application.Contracts\obj\Debug\net8.0\ExamOnAbp.AdministrationService.Application.Contracts.sourcelink.json
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Application.Contracts\obj\Debug\net8.0\ExamOnAb.1EDB3566.Up2Date
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Application.Contracts\obj\Debug\net8.0\ExamOnAbp.AdministrationService.Application.Contracts.dll
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Application.Contracts\obj\Debug\net8.0\refint\ExamOnAbp.AdministrationService.Application.Contracts.dll
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Application.Contracts\obj\Debug\net8.0\ExamOnAbp.AdministrationService.Application.Contracts.pdb
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationService.Application.Contracts\obj\Debug\net8.0\ref\ExamOnAbp.AdministrationService.Application.Contracts.dll

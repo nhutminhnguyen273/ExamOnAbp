@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uhujB/qpOrY=",
+  "dgSpecHash": "0Vb/PgTi+Pw=",
   "success": true,
-  "projectFilePath": "D:\\ExamOnAbp\\aspire\\ExamOnAbp\\ExamOnAbp.ServiceDefaults\\ExamOnAbp.ServiceDefaults.csproj",
+  "projectFilePath": "D:\\ExamOnAbp\\aspire\\ExamOnAbp.ServiceDefaults\\ExamOnAbp.ServiceDefaults.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nhutm\\.nuget\\packages\\google.protobuf\\3.22.5\\google.protobuf.3.22.5.nupkg.sha512",
     "C:\\Users\\nhutm\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",

@@ -1,0 +1,13 @@
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Localization\bin\Debug\net8.0\ExamOnAbp.Shared.Localization.deps.json
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Localization\bin\Debug\net8.0\ExamOnAbp.Shared.Localization.dll
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Localization\bin\Debug\net8.0\ExamOnAbp.Shared.Localization.pdb
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Localization\obj\Debug\net8.0\ExamOnAbp.Shared.Localization.csproj.AssemblyReference.cache
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Localization\obj\Debug\net8.0\ExamOnAbp.Shared.Localization.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Localization\obj\Debug\net8.0\ExamOnAbp.Shared.Localization.AssemblyInfoInputs.cache
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Localization\obj\Debug\net8.0\ExamOnAbp.Shared.Localization.AssemblyInfo.cs
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Localization\obj\Debug\net8.0\ExamOnAbp.Shared.Localization.csproj.CoreCompileInputs.cache
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Localization\obj\Debug\net8.0\ExamOnAbp.Shared.Localization.sourcelink.json
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Localization\obj\Debug\net8.0\ExamOnAbp.Shared.Localization.dll
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Localization\obj\Debug\net8.0\refint\ExamOnAbp.Shared.Localization.dll
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Localization\obj\Debug\net8.0\ExamOnAbp.Shared.Localization.pdb
+D:\ExamOnAbp\shared\ExamOnAbp.Shared.Localization\obj\Debug\net8.0\ref\ExamOnAbp.Shared.Localization.dll

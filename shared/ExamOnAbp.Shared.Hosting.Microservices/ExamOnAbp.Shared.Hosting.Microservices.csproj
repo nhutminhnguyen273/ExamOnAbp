@@ -6,4 +6,20 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="DistributedLock.Redis" Version="1.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.DataProtection.StackExchangeRedis" Version="9.0.0" />
+    <PackageReference Include="Volo.Abp.AspNetCore.Authentication.JwtBearer" Version="8.3.3" />
+    <PackageReference Include="Volo.Abp.BackgroundJobs.RabbitMQ" Version="8.3.3" />
+    <PackageReference Include="Volo.Abp.Caching.StackExchangeRedis" Version="8.3.3" />
+    <PackageReference Include="Volo.Abp.DistributedLocking" Version="8.3.3" />
+    <PackageReference Include="Volo.Abp.EventBus.RabbitMQ" Version="8.3.3" />
+    <PackageReference Include="Volo.Abp.MongoDB" Version="8.3.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\services\Administration\src\ExamOnAbp.AdministrationService.EntityFrameworkCore\ExamOnAbp.AdministrationService.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\ExamOnAbp.Shared.Hosting.AspNetCore\ExamOnAbp.Shared.Hosting.AspNetCore.csproj" />
+  </ItemGroup>
+
 </Project>

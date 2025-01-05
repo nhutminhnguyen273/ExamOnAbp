@@ -1,0 +1,6 @@
+D:\ExamOnAbp\shared\ExamOnAbp.Keycloak.DbMigrator\obj\Debug\net8.0\ExamOnAbp.Keycloak.DbMigrator.csproj.AssemblyReference.cache
+D:\ExamOnAbp\shared\ExamOnAbp.Keycloak.DbMigrator\obj\Debug\net8.0\ExamOnAbp.Keycloak.DbMigrator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamOnAbp\shared\ExamOnAbp.Keycloak.DbMigrator\obj\Debug\net8.0\ExamOnAbp.Keycloak.DbMigrator.AssemblyInfoInputs.cache
+D:\ExamOnAbp\shared\ExamOnAbp.Keycloak.DbMigrator\obj\Debug\net8.0\ExamOnAbp.Keycloak.DbMigrator.AssemblyInfo.cs
+D:\ExamOnAbp\shared\ExamOnAbp.Keycloak.DbMigrator\obj\Debug\net8.0\ExamOnAbp.Keycloak.DbMigrator.csproj.CoreCompileInputs.cache
+D:\ExamOnAbp\shared\ExamOnAbp.Keycloak.DbMigrator\obj\Debug\net8.0\ExamOnAbp.Keycloak.DbMigrator.sourcelink.json

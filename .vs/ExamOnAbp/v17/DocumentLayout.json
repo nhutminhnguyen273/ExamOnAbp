@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\ExamOnAbp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{136C836A-EF76-4D90-91C6-F3BE6937FB65}|shared\\ExamOnAbp.Shared.Hosting.AspNetCore\\ExamOnAbp.Shared.Hosting.AspNetCore.csproj|d:\\examonabp\\shared\\examonabp.shared.hosting.aspnetcore\\serilogconfigurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{136C836A-EF76-4D90-91C6-F3BE6937FB65}|shared\\ExamOnAbp.Shared.Hosting.AspNetCore\\ExamOnAbp.Shared.Hosting.AspNetCore.csproj|solutionrelative:shared\\examonabp.shared.hosting.aspnetcore\\serilogconfigurationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84BB31ED-5F68-4040-BD7A-5B95288C4BF6}|services\\Administration\\src\\ExamOnAbp.AdministrationServiceHttpApi.Host\\ExamOnAbp.AdministrationServiceHttpApi.Host.csproj|d:\\examonabp\\services\\administration\\src\\examonabp.administrationservicehttpapi.host\\administrationservicehttpapihostmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84BB31ED-5F68-4040-BD7A-5B95288C4BF6}|services\\Administration\\src\\ExamOnAbp.AdministrationServiceHttpApi.Host\\ExamOnAbp.AdministrationServiceHttpApi.Host.csproj|solutionrelative:services\\administration\\src\\examonabp.administrationservicehttpapi.host\\administrationservicehttpapihostmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SerilogConfigurationHelper.cs",
-              "DocumentMoniker": "D:\\ExamOnAbp\\shared\\ExamOnAbp.Shared.Hosting.AspNetCore\\SerilogConfigurationHelper.cs",
-              "RelativeDocumentMoniker": "shared\\ExamOnAbp.Shared.Hosting.AspNetCore\\SerilogConfigurationHelper.cs",
-              "ToolTip": "D:\\ExamOnAbp\\shared\\ExamOnAbp.Shared.Hosting.AspNetCore\\SerilogConfigurationHelper.cs",
-              "RelativeToolTip": "shared\\ExamOnAbp.Shared.Hosting.AspNetCore\\SerilogConfigurationHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "AdministrationServiceHttpApiHostModule.cs",
+              "DocumentMoniker": "D:\\ExamOnAbp\\services\\Administration\\src\\ExamOnAbp.AdministrationServiceHttpApi.Host\\AdministrationServiceHttpApiHostModule.cs",
+              "RelativeDocumentMoniker": "services\\Administration\\src\\ExamOnAbp.AdministrationServiceHttpApi.Host\\AdministrationServiceHttpApiHostModule.cs",
+              "ToolTip": "D:\\ExamOnAbp\\services\\Administration\\src\\ExamOnAbp.AdministrationServiceHttpApi.Host\\AdministrationServiceHttpApiHostModule.cs",
+              "RelativeToolTip": "services\\Administration\\src\\ExamOnAbp.AdministrationServiceHttpApi.Host\\AdministrationServiceHttpApiHostModule.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAIwEoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T03:51:58.143Z",
+              "WhenOpened": "2025-01-05T10:44:25.964Z",
               "EditorCaption": ""
             }
           ]

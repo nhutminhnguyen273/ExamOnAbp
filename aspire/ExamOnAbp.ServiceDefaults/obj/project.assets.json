@@ -2189,11 +2189,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ExamOnAbp\\aspire\\ExamOnAbp\\ExamOnAbp.ServiceDefaults\\ExamOnAbp.ServiceDefaults.csproj",
+      "projectUniqueName": "D:\\ExamOnAbp\\aspire\\ExamOnAbp.ServiceDefaults\\ExamOnAbp.ServiceDefaults.csproj",
       "projectName": "ExamOnAbp.ServiceDefaults",
-      "projectPath": "D:\\ExamOnAbp\\aspire\\ExamOnAbp\\ExamOnAbp.ServiceDefaults\\ExamOnAbp.ServiceDefaults.csproj",
+      "projectPath": "D:\\ExamOnAbp\\aspire\\ExamOnAbp.ServiceDefaults\\ExamOnAbp.ServiceDefaults.csproj",
       "packagesPath": "C:\\Users\\nhutm\\.nuget\\packages\\",
-      "outputPath": "D:\\ExamOnAbp\\aspire\\ExamOnAbp\\ExamOnAbp.ServiceDefaults\\obj\\",
+      "outputPath": "D:\\ExamOnAbp\\aspire\\ExamOnAbp.ServiceDefaults\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

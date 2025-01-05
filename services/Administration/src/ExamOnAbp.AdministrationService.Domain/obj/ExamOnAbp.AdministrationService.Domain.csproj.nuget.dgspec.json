@@ -1,0 +1,188 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ExamOnAbp\\services\\Administration\\src\\ExamOnAbp.AdministrationService.Domain\\ExamOnAbp.AdministrationService.Domain.csproj": {}
+  },
+  "projects": {
+    "D:\\ExamOnAbp\\services\\Administration\\src\\ExamOnAbp.AdministrationService.Domain.Shared\\ExamOnAbp.AdministrationService.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ExamOnAbp\\services\\Administration\\src\\ExamOnAbp.AdministrationService.Domain.Shared\\ExamOnAbp.AdministrationService.Domain.Shared.csproj",
+        "projectName": "ExamOnAbp.AdministrationService.Domain.Shared",
+        "projectPath": "D:\\ExamOnAbp\\services\\Administration\\src\\ExamOnAbp.AdministrationService.Domain.Shared\\ExamOnAbp.AdministrationService.Domain.Shared.csproj",
+        "packagesPath": "C:\\Users\\nhutm\\.nuget\\packages\\",
+        "outputPath": "D:\\ExamOnAbp\\services\\Administration\\src\\ExamOnAbp.AdministrationService.Domain.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nhutm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.FileProviders.Embedded": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Volo.Abp.AuditLogging.Domain.Shared": {
+              "target": "Package",
+              "version": "[8.3.3, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[8.3.3, )"
+            },
+            "Volo.Abp.SettingManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[8.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ExamOnAbp\\services\\Administration\\src\\ExamOnAbp.AdministrationService.Domain\\ExamOnAbp.AdministrationService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ExamOnAbp\\services\\Administration\\src\\ExamOnAbp.AdministrationService.Domain\\ExamOnAbp.AdministrationService.Domain.csproj",
+        "projectName": "ExamOnAbp.AdministrationService.Domain",
+        "projectPath": "D:\\ExamOnAbp\\services\\Administration\\src\\ExamOnAbp.AdministrationService.Domain\\ExamOnAbp.AdministrationService.Domain.csproj",
+        "packagesPath": "C:\\Users\\nhutm\\.nuget\\packages\\",
+        "outputPath": "D:\\ExamOnAbp\\services\\Administration\\src\\ExamOnAbp.AdministrationService.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nhutm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ExamOnAbp\\services\\Administration\\src\\ExamOnAbp.AdministrationService.Domain.Shared\\ExamOnAbp.AdministrationService.Domain.Shared.csproj": {
+                "projectPath": "D:\\ExamOnAbp\\services\\Administration\\src\\ExamOnAbp.AdministrationService.Domain.Shared\\ExamOnAbp.AdministrationService.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Volo.Abp.AuditLogging.Domain": {
+              "target": "Package",
+              "version": "[8.3.3, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain": {
+              "target": "Package",
+              "version": "[8.3.3, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.Identity": {
+              "target": "Package",
+              "version": "[8.3.3, )"
+            },
+            "Volo.Abp.SettingManagement.Domain": {
+              "target": "Package",
+              "version": "[8.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

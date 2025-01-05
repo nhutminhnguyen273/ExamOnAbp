@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExamOnAbp.Shared.Hosting.Gateways")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e76fe19c0ee6bfdf595b12c2a31985e532f200b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51d1002c0d3123855644c8c8a5ffcb2cd5a691d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExamOnAbp.Shared.Hosting.Gateways")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExamOnAbp.Shared.Hosting.Gateways")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

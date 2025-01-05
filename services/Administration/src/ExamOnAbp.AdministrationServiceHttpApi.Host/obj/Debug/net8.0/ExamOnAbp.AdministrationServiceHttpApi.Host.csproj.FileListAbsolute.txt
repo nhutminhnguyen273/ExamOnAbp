@@ -1,0 +1,8 @@
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationServiceHttpApi.Host\obj\Debug\net8.0\ExamOnAbp.AdministrationServiceHttpApi.Host.csproj.AssemblyReference.cache
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationServiceHttpApi.Host\obj\Debug\net8.0\ExamOnAbp.AdministrationServiceHttpApi.Host.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationServiceHttpApi.Host\obj\Debug\net8.0\ExamOnAbp.AdministrationServiceHttpApi.Host.AssemblyInfoInputs.cache
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationServiceHttpApi.Host\obj\Debug\net8.0\ExamOnAbp.AdministrationServiceHttpApi.Host.AssemblyInfo.cs
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationServiceHttpApi.Host\obj\Debug\net8.0\ExamOnAbp.AdministrationServiceHttpApi.Host.csproj.CoreCompileInputs.cache
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationServiceHttpApi.Host\obj\Debug\net8.0\ExamOnAbp.AdministrationServiceHttpApi.Host.MvcApplicationPartsAssemblyInfo.cs
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationServiceHttpApi.Host\obj\Debug\net8.0\ExamOnAbp.AdministrationServiceHttpApi.Host.MvcApplicationPartsAssemblyInfo.cache
+D:\ExamOnAbp\services\Administration\src\ExamOnAbp.AdministrationServiceHttpApi.Host\obj\Debug\net8.0\ExamOnAbp.AdministrationServiceHttpApi.Host.sourcelink.json
